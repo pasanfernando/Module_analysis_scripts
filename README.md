@@ -1,7 +1,7 @@
 # Module Analysis Scripts
 ## Author: Pasan Fernando
 
-This repository contains the scripts used for the project titled: "Studying the changes in gene modules associated with fin to limb transition using quality-enhanced gene networks"
+This repository contains the scripts used for the project titled: "Gene network module changes associated with the vertebrate fin to limb transition"
 
 The scripts are arranged into following folders
 
